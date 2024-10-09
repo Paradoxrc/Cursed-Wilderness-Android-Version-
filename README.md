@@ -1,51 +1,71 @@
 # Cursed Wilderness
 
-*Cursed Wilderness* is an action-adventure game where players must survive in a haunted forest filled with dangerous creatures. Armed with only basic tools and their wits, players must explore, fight enemies, and collect items to escape the cursed wilderness before it’s too late.
+*Cursed Wilderness* is an action fantasy 2D platformer game I made using Unity game engine.
+
+## Play the game on google play store
+1. Download the game from the [Google Play Store](https://play.google.com/store/apps/details?id=com.ParadoxStudio.CursedWilderness&hl=en).
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Gameplay](#gameplay)
-- [Features](#features)
+- [Gameplay Overview](#gameplay-overview)
+  - [Acts and Levels](#acts-and-levels)
+  - [Boss Fights](#boss-fights)
+  - [Credit System](#credit-system)
 - [Screenshots](#screenshots)
-- [Controls](#controls)
-- [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Contact](#contact)
+
 
 ## Introduction
-In *Cursed Wilderness*, you play as a survivor stranded in a mysterious, cursed forest. The environment is dangerous, filled with eerie creatures, and the only way to survive is to fight your way through. The goal is to collect all essential items hidden throughout the wilderness and escape the cursed land.
+*Cursed Wilderness* takes you on an epic journey through a cursed land where every corner is filled with danger and mystery. Armed with powerful abilities and a sword, you must explore, fight, and survive.
 
-## Gameplay
-- **Objective**: Collect 5 key items within a limited time while avoiding or fighting enemies.
-- **Health System**: You start with 3 health points. Each time you’re hit by an enemy, you lose one point. Once all health points are lost, the game ends.
-- **Combat**: Use basic attacks (such as punching) to fight off enemies. Each punch reduces enemy health.
-- **Timer**: Players have a limited amount of time to collect the required items, adding a layer of urgency.
+## Gameplay Overview
 
-## Features
-- **Enemy AI**: Enemies follow and attack the player when within a specific trigger area.
-- **Item Collection**: Players must gather key items to progress through the game.
-- **Health System**: Lose health when attacked, with a game over condition when health is depleted.
-- **Timer**: Complete the objective within a time limit or face defeat.
-- **Engaging Environment**: Explore a dark and immersive wilderness setting.
+### Acts and Levels
+
+**Act I: The Enchanted Forest**  
+- Explore the lush, shadowy forest across eight captivating levels. Each level presents perilous obstacles, cunning enemies, and hidden secrets.
+- Wield your sword to fend off foes and clear your path.
+- Master the art of double jumping to reach higher platforms and evade danger.
+- Collect stars scattered throughout the forest to unlock upgrades and enhance your abilities.
+
+**Act II: The Abyssal Cave**  
+- Descend into the heart of darkness as you venture deeper into the cursed wilderness.
+- Navigate through eight treacherous cave levels, where ancient secrets await.
+- Unleash ranged attacks with your magical weapon, striking down enemies from a safe distance.
+- Utilize your dash ability to swiftly evade traps and ambushes.
+- Bash through objects to uncover hidden passages and shortcuts.
+
+### Boss Fights
+At the end of each act, face formidable bosses. These epic showdowns test your skills and determination. Will you emerge victorious and break the curse that binds the forest?
+
+### Credit System
+Stars collected during your journey serve as currency. Spend them wisely to purchase upgrades:
+- Unlock more utilities
+- Extend your life lines
+- Improve your ranged weapon’s power
+- Unlock new abilities
 
 ## Screenshots
 Here are some screenshots of *Cursed Wilderness* in action:
 
-![Game Environment](https://github.com/Paradoxrc/cursed-wilderness/blob/main/screenshots/environment.png?raw=true)
-![Enemy Encounter](https://github.com/Paradoxrc/cursed-wilderness/blob/main/screenshots/enemy.png?raw=true)
-![Item Collection](https://github.com/Paradoxrc/cursed-wilderness/blob/main/screenshots/collection.png?raw=true)
-![Game Over Screen](https://github.com/Paradoxrc/cursed-wilderness/blob/main/screenshots/gameover.png?raw=true)
+![Game Cover art](https://github.com/Paradoxrc/Cursed-Wilderness-Android-Version-/blob/main/cover%20art_new.jpg?raw=true)  
+![](https://github.com/Paradoxrc/Cursed-Wilderness-Android-Version-/blob/main/Screenshot%202024-04-12%20150645.png?raw=true)  
+![](https://github.com/Paradoxrc/Cursed-Wilderness-Android-Version-/blob/main/Screenshot%202024-04-12%20150658.png?raw=true)  
+![](https://github.com/Paradoxrc/Cursed-Wilderness-Android-Version-/blob/main/Screenshot%202024-04-12%20151001.png?raw=true)
+![](https://github.com/Paradoxrc/Cursed-Wilderness-Android-Version-/blob/main/Screenshot%202024-04-12%20151729.png?raw=true)  
+![](https://github.com/Paradoxrc/Cursed-Wilderness-Android-Version-/blob/main/Screenshot%202024-04-12%20152233.png?raw=true)  
+![](https://github.com/Paradoxrc/Cursed-Wilderness-Android-Version-/blob/main/Screenshot%202024-04-12%20152322.png?raw=true)  
+![](https://github.com/Paradoxrc/Cursed-Wilderness-Android-Version-/blob/main/Screenshot%202024-04-12%20152351.png?raw=true)
+![](https://github.com/Paradoxrc/Cursed-Wilderness-Android-Version-/blob/main/Screenshot%202024-04-12%20153048.png?raw=true)  
+![](https://github.com/Paradoxrc/Cursed-Wilderness-Android-Version-/blob/main/Screenshot%202024-04-12%20153618.png?raw=true)
 
-## Controls
-- **WASD**: Move your character.
-- **Left Click**: Attack enemies.
-- **E**: Pick up items.
-- **Space**: Jump.
-- **Esc**: Pause/Resume the game.
+## Technologies Used
+- Unity Game Engine
+- C#
+- Adobe Photoshop (for art assets)
+- Audacity (for sound editing)
 
-## Installation
-To play *Cursed Wilderness* on your local machine, follow these steps:
+## Watch the Game Trailers
+- [Game Trailer](https://www.youtube.com/watch?v=trailerlink)  
+- [Gameplay Trailer](https://www.youtube.com/watch?v=gameplaylink)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Paradoxrc/cursed-wilderness.git

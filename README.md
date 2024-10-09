@@ -66,6 +66,6 @@ Here are some screenshots of *Cursed Wilderness* in action:
 - Audacity (for sound editing)
 
 ## Watch the Game Trailers
-- [Game Trailer](https://www.youtube.com/watch?v=trailerlink)  
-- [Gameplay Trailer](https://www.youtube.com/watch?v=gameplaylink)
+- [Game Trailer](https://youtu.be/G7Fq7wR0COk?si=Q8-U0kFCNxPSw041)  
+- [Gameplay Trailer](https://youtu.be/WYUrCO5Pmw0?si=vuGGnVtsIL6lTmUZ)
 
